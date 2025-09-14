@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Wordsworth", "William Shakespeare", "John Milton", "George Orwell"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which is the largest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "John Adams"],
+      "answer": "George Washington"
+    }
+  ]
+}
+
+
+
+
+ 
